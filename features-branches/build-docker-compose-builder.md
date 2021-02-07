@@ -1,0 +1,1 @@
+An object that will build the *string* that will be written to the docker-compose file.
